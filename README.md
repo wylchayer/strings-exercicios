@@ -1,4 +1,4 @@
-# A009 - Strings
+# Strings - Exercício
 
 ### Setup do projeto no Git
 
