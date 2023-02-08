@@ -12,4 +12,4 @@ b) Crie uma nova string a partir da primeira, trocando **verde** por **rosa**, e
 
 c) **Verifique** se a nova string inclui **verde**, e se inclui **laranja**.
 
-**EXTRA:** tente fazer o trecho “mas não deixe o gato sair” ficar em maiúsculo, assim como o “BOAS VINDAS”
+**EXTRA:** tente fazer o trecho “mas não deixe o gato sair” ficar em **letras maiúsculas**, assim como o “BOAS VINDAS”
